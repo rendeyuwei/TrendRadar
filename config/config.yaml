@@ -100,7 +100,7 @@ platforms:
   - id: "zhihu"
     name: "知乎"
   - id: "juejin"
-  name: "掘金"
+    name: "掘金"
   - id: "github"
     name: "GitHub"
   - id: "hackernews"
